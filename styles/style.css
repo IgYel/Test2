@@ -1561,23 +1561,6 @@ main .MainLogoTextMobile .Images .PImg {
   -webkit-animation: Route 3.6s var(--transition-2) forwards;
           animation: Route 3.6s var(--transition-2) forwards;
 }
-.Maps .b-popup {
-  z-index: 10;
-  width: 100%;
-  background-color: rgba(12, 29, 61, 0.705);
-  overflow: hidden;
-  position: fixed;
-  top: 0px;
-  height: 100%;
-}
-.Maps .b-popup .b-popup-content {
-  margin: 5% 30%;
-  width: 40%;
-  height: 80%;
-  border-radius: 50px;
-  -webkit-box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.6117647059);
-          box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.6117647059);
-}
 
 footer {
   margin-top: 100px;
